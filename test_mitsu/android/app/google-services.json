@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239947646467",
+    "project_id": "mitsu-digital",
+    "storage_bucket": "mitsu-digital.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239947646467:android:0f11b7a5c810bec27b7036",
+        "android_client_info": {
+          "package_name": "mitsu.digital.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1MpYGZUnAx_rWx678WbLC0xAPN9rqZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
